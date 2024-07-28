@@ -15,6 +15,9 @@ https://zena86.github.io/Match-match-game/dist/ DEMO
 ## linevsystems.com
 https://linevsystems.com
 
+## FreePlan
+https://zena86.github.io/FreePlan/
+
 ## graphiql app
 https://github.com/zena86/graphiql-app
 https://deploy-preview-41--reactivebuqlya.netlify.app/main DEMO
